@@ -1,0 +1,16 @@
+# Categories home page navigation
+
+- title: Kom i gang
+  desc: Raskt, enkelt og oversiktlig! Kom i gang med Datokontroll i din butikk.
+  icon: settings
+  doc: intro
+
+- title: Kategorier
+  desc: Alt du trenger å vite om kategorier.
+  icon: grid
+  doc: categories
+
+- title: Datolisten
+  desc: Lær om hvordan du bruker datolisten på en effektiv og god måte.
+  icon: list
+  doc: datelist
