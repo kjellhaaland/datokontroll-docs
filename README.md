@@ -26,3 +26,7 @@
 - Betaling
 	- TODO
   
+
+
+Link til gammel docs:
+https://datokontroll-webpage.firebaseapp.com/docs/ 
