@@ -19,8 +19,8 @@ url:                "https://docs.jekyll.plus"
 
 # Site logo, image or text
 brand:
-    image:          logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           Datokontroll      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+    image:                           # e.g. logo.png, upload logo image file to /assets/img/ folder
+    text:           Datokontroll - Dokumentasjon    # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Default author settings
 author:
@@ -37,7 +37,7 @@ authors:
 social:
     email:          support@datokontroll.no
     website:        https://www.datokontroll.no
-    facebook:       https://www.facebook.com/
+    facebook:       https://www.facebook.com/Datokontroll-461499940707209/
     flickr:
     dribbble:
     github:

@@ -2,11 +2,11 @@
 - title: Hjelp
   url: /
 
-- title: Nyheter
-  url: /news/
+#- title: Nyheter
+#  url: /news/
 
-# - title: Changelog
-#  url: /changelog/
+- title: Changelog
+  url: /changelog/
 
 - title: Kontakt
   url: /contact/

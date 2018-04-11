@@ -2,15 +2,20 @@
 
 - title: Kom i gang
   desc: Raskt, enkelt og oversiktlig! Kom i gang med Datokontroll i din butikk.
-  icon: settings
+  icon: lifesaver
   doc: intro
 
-- title: Kategorier
-  desc: Alt du trenger å vite om kategorier.
-  icon: grid
-  doc: categories
+- title: Nytt oppsett
+  desc: Enkel oversikt over hvordan du setter opp en ny butikk.
+  icon: bolt
+  doc: new_store
 
-- title: Datolisten
-  desc: Lær om hvordan du bruker datolisten på en effektiv og god måte.
-  icon: list
-  doc: datelist
+- title: Tjenester
+  desc: Alt du trenger å vite om våre tjenester.
+  icon: phone
+  doc: services
+
+- title: FAQ
+  desc: Ofte stilte spørsmål
+  icon: question
+  doc: faq

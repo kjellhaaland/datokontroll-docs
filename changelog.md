@@ -4,4 +4,4 @@ title: Changelog
 permalink: /changelog/
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Vi jobber alltid for å levere en stabil og tilgjengelig tjeneste og oppdaterer Datokontroll regelmessig. Store oppdateringer i appen til Android og iOS vil bli loggført her. Dersom du opplever problemer med en appversjon sørg for at du har siste oppdatering av appen innstallert på din enhet.

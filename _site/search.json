@@ -1,11 +1,59 @@
 [
   
     {
-      "title"    : "Kom i gang med Datokontroll",
+      "title"    : "Kategorier",
+      "category" : "",
+      "tags"     : "categories, setup, new",
+      "url"      : "/docs/categories/",
+      "date"     : "2018-04-11 23:50:04 +0200"
+    } ,
+  
+    {
+      "title"    : "Datolisten",
+      "category" : "",
+      "tags"     : "products, list",
+      "url"      : "/docs/datelist/",
+      "date"     : "2018-04-11 23:50:04 +0200"
+    } ,
+  
+    {
+      "title"    : "Ofte stilte spørsmål",
+      "category" : "",
+      "tags"     : "faq, question, questions, problems, errors, problem, error",
+      "url"      : "/docs/faq/",
+      "date"     : "2018-04-11 23:50:04 +0200"
+    } ,
+  
+    {
+      "title"    : "Hva er Datokontroll?",
+      "category" : "",
+      "tags"     : "intro, new, startup",
+      "url"      : "/docs/intro/",
+      "date"     : "2018-04-11 23:50:04 +0200"
+    } ,
+  
+    {
+      "title"    : "Kom i gang",
+      "category" : "",
+      "tags"     : "categories, startup, new",
+      "url"      : "/docs/new_store/",
+      "date"     : "2018-04-11 23:50:04 +0200"
+    } ,
+  
+    {
+      "title"    : "Registrering",
       "category" : "",
       "tags"     : "",
-      "url"      : "/docs/intro/",
-      "date"     : "2018-04-10 21:17:31 +0200"
+      "url"      : "/docs/scanning/",
+      "date"     : "2018-04-11 23:50:04 +0200"
+    } ,
+  
+    {
+      "title"    : "Våre tjenester",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/docs/services/",
+      "date"     : "2018-04-11 23:50:04 +0200"
     } 
   
 ]

@@ -1,25 +1,11 @@
-- title: Getting Started
+- title: Kom i gang
   docs:
-  - home
-  - quickstart
-  - installation
-  - windows
+  - intro
+  - new_store
+  - categories
+  - datelist
 
-- title: Account and Billing
+- title: Annet
   docs:
-  - frontmatter
-  - posts
-  - drafts
-  - pages
-
-- title: Customization
-  docs:
-  - usage
-  - structure
-  - configuration
-
-- title: Troubleshooting
-  docs:
-  - variables
-  - collections
-  - assets
+  - services
+  - faq

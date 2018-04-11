@@ -1,10 +1,10 @@
 # Footer navigation links
 
-- title: Help
+- title: Hjelp
   url: /
 
-- title: News
-  url: /news/
+- title: Changelog
+  url: /changelog/
 
-- title: Contact
+- title: Kontakt
   url: /contact/
