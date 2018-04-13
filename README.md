@@ -1,5 +1,16 @@
 # Datokontroll - Docs
 
+## Setup
+
+```
+gem install bundler
+bundle install
+```
+```
+bundle exec jekyll serve
+```
+
+
 ## Oppsett
 
 - Kom i gang

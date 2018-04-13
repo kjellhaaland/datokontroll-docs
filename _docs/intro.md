@@ -18,13 +18,13 @@ Datokontroll er et verktøy som er utviklet for butikker og kiosker for å redus
 Datokontroll gir deg full kontroll på din butikk på en enkel, oversiktlig og effektiv måte. Ved å bruke Datokontroll vil du og dine medarbeidere føle at dere har oversikt over alle datovarer i butikken. Her er noen av fordelene Datokontroll gir for din butikk:
 
 - God kontroll på alle hyller og avdelinger i butikken.
-- Fornøyde kunder som aldri finner datovarer i butikklokalet.
+- Fornøyde kunder som aldri finner varer som har gått ut på dato i butikklokalet.
 - Fornøyde kunder som får tilbud om produkter med kort holdbarhet til en redusert pris.
 - En strukturert og tidsbesparende måte å forebygge matsvinn på. 
 
 ## Hva trenger jeg for å komme i gang?
 Det er superenkelt å starte og bruke Datokontroll. For å følge guiden videre trenger du:
 - En mobiltelefon (Android eller iPhone)
-- En datamaskin med en modene nettleser (IE, Firefox, Chrome, Edge, Opera)
+- En datamaskin med en moderne nettleser (IE, Firefox, Chrome, Edge, Opera)
 
 Før du leser videre anbefaler vi deg å laste ned Datokontroll på din mobiltelefon.

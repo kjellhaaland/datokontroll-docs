@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Kom i gang
-subtitle: Tips til deg som akkurat har begynt med Datokontroll i din butikk. Vi har laget en liste med tips og triks til deg som er ny i Datokontroll.
+subtitle: Tips for å komme raskt i gang med Datokontroll i din butikk.
 author:
 tags: categories startup new
 ---
@@ -19,16 +19,16 @@ Last ned Datokontroll-appen og logg inn med din brukerkonto. Velg de avdelingene
 Register hyllene som ligger under "Kommende" i appen. Følg instruksjonene som dukker opp på skjermen når du klikker på en kategori. Husk å klikke på *Fullfør registreringen* når du er ferdig med å registrere.
 
 ### Steg 5 - Datolisten
-Sjekk datolisten gjevnlig. Meieri, kjølevarer og ferskvarer bør sjekkes hver dag. Avdelinger som tørrvarer og frys bør sjekkes en gang i uken.
+Sjekk datolisten jevnlig. Meieri, kjølevarer og ferskvarer bør sjekkes hver dag. Avdelinger som tørrvarer og frys bør sjekkes en gang i uken.
 
 
 ## Andre ting du bør gjøre
 
 ### Inviter medarbeidere
-Inviter dine medarbeidere til Datokontroll. Du inviterer nye brukere på [denne linken](https://console.datokontroll.no/)
+Inviter dine medarbeidere til Datokontroll. Du inviterer nye brukere på [denne linken](https://console.datokontroll.no/).
 
 ### Deleger ansvar
-Det er ofte smart å delegere ansvar for de forskjellige avdelingene. Da slipper en oeson å holde oversikt over alle hyller i butikken.
+Det er ofte smart å delegere ansvar for de forskjellige avdelingene. Da slipper en person å holde oversikt over alle hyller i butikken.
 
 ### Fast plass til datovarer
 Vi anbefaler å ha en fast plass hvor du plasserer datovarer i butikken. Du kan for eksempel samle alle kjølevarer i en felles kjøledisk og tørrvarer i en handlekurv. Husk å merke slike salgsplasser tydelig med *nedpriste datovarer* slik at kundene ikke blir forvirret.
