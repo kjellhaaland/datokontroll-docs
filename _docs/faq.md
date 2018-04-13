@@ -37,5 +37,5 @@ Om du ikke ser alle kategoriene kan det hende du ikke har vagt å vise alle avde
 Om du vil at flere i butikken skal kunne bruke Datokontroll uten å dele bruker, kan man invitere brukere til butikken i konsollen [her](https://console.datokontroll.no/console/profile/account). De vil da kunne logge inn med sin bruker i appen, men ikke ha rettigheter til å endre annen informasjon om butikken på konsollen. 
 
 ## Hvordan inviterer jeg brukere til Datokontroll?
-DU kan invitere brukere til butikken i konsollen [her](https://console.datokontroll.no/console/profile/account) ved å oppgi epostadressen dems. De vil da få en epost hvor de kan lage bruker og få tilgang til butikken. Om brukeren allerede har en Datokontroll bruker kan de være medlem i flere butikker og bytte mellom dem i appen og i konsollen.
+Du kan invitere brukere til butikken i konsollen [her](https://console.datokontroll.no/console/profile/account) ved å oppgi epostadressen dems. De vil da få en epost hvor de kan lage bruker og få tilgang til butikken. Om brukeren allerede har en Datokontroll bruker kan de være medlem i flere butikker og bytte mellom dem i appen og i konsollen.
 

@@ -22,7 +22,7 @@ Det oppnår du ved å bare registrere utsatte varer, slik at de aller fleste var
 Datokontroll gir deg full kontroll på din butikk på en enkel, oversiktlig og effektiv måte. Ved å bruke Datokontroll vil du og dine medarbeidere føle at dere har oversikt over alle datovarer i butikken. Her er noen av fordelene Datokontroll gir for din butikk:
 
 - God kontroll på alle hyller og avdelinger i butikken.
-- Fornøyde kunder som aldri finner datovarer i butikklokalet.
+- Fornøyde kunder som aldri finner varer som har gått ut på dato i butikklokalet.
 - Fornøyde kunder som får tilbud om produkter med kort holdbarhet til en redusert pris.
 - En strukturert og tidsbesparende måte å forebygge matsvinn på. 
 

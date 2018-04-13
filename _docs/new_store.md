@@ -33,7 +33,7 @@ Sjekk datolisten jevnlig. Meieri, kjølevarer og ferskvarer bør sjekkes hver da
 Les mer for å jobbe så effektivt dom mulig. Det kan du gjøre [her](/docs/categories/).
 
 ### Inviter medarbeidere
-Inviter dine medarbeidere til Datokontroll. Du inviterer nye brukere på [denne linken](https://console.datokontroll.no/)
+Inviter dine medarbeidere til Datokontroll. Du inviterer nye brukere på [denne linken](https://console.datokontroll.no/).
 
 ### Deleger ansvar
 Det er ofte smart å delegere ansvar for de forskjellige avdelingene. Da slipper en person å holde oversikt over alle hyller i butikken.
