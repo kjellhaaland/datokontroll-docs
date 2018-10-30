@@ -29,6 +29,6 @@ Datokontroll gir deg full kontroll på din butikk på en enkel, oversiktlig og e
 ## Hva trenger jeg for å komme i gang?
 Det er superenkelt å starte og bruke Datokontroll. For å følge guiden videre trenger du:
 - En mobiltelefon (Android eller iPhone)
-- En datamaskin med en modene nettleser (IE, Firefox, Chrome, Edge, Opera)
+- En datamaskin med en moderne nettleser (IE, Firefox, Chrome, Edge, Opera)
 
 Før du leser videre anbefaler vi deg å laste ned Datokontroll på din mobiltelefon.

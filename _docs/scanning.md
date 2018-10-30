@@ -5,7 +5,7 @@ subtitle: Registrering er det viktigste man gjør i Datokontroll. Når man regis
 author:
 ---
 
-Når en kategori dukker opp i listen over kommende er det på tide å registere produkter i hyllen. Registrering foregår i Datokontroll-appen.
+Når en kategori dukker opp i listen over kommende er det på tide å registrere produkter i hyllen. Registrering foregår i Datokontroll-appen.
 
 ## Gjennomføring
 Når du klikker på en kategori vil du få opp ett skjermbilde som oppgir en *Scann til og med* dato. Alle produkter som utgår før denne datoen, skal skannes. Etter man har skannet et produkt fyller man inn utløpsdatoen og antall produkter det gjelder.

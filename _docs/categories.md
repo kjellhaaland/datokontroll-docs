@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Kategorier
-subtitle: Kategorier er den viktigste byggestenen til Datokontroll. Del butikken inn i oversiktlige kategorier slik at dine ansatte lett kan forstå hva de skal registrere.
+subtitle: Kategorier er den viktigste byggesteinen til Datokontroll. Del butikken inn i oversiktlige kategorier slik at dine ansatte lett kan forstå hva de skal registrere.
 author:
 tags: categories setup new
 ---

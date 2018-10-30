@@ -23,7 +23,7 @@ Last ned Datokontroll-appen og logg inn med din brukerkonto. Velg de avdelingene
 Register hyllene som ligger under "Kommende" i appen. Følg instruksjonene som dukker opp på skjermen når du klikker på en kategori. Husk å klikke på *Fullfør registreringen* når du er ferdig med å registrere.
 
 ### Steg 5 - Datolisten
-Sjekk datolisten gjevnlig. Meieri, kjølevarer og ferskvarer bør sjekkes hver dag. Avdelinger som tørrvarer og frys bør sjekkes en gang i uken.
+Sjekk datolisten jevnlig. Meieri, kjølevarer og ferskvarer bør sjekkes hver dag. Avdelinger som tørrvarer og frys bør sjekkes en gang i uken.
 
 
 ## Andre ting du bør gjøre

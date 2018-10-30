@@ -17,13 +17,13 @@ Det kan man lett gjøre i datolisten ved å gå inn i datolisten og øke tiden p
 
 ## Jeg har brukt Datokontroll en stund, hva kan jeg gjøre for å kaste enda mindre mat?
 
- Etter at man har tatt i bruk Datkontroll på de varegruppene man ønsker selv anbefaler vi å ta det i bruk på varegrupper med spesielt lang holdbarhet, her kan man redusere matsvinn drastisk ved å sette av et par timer i året.
+ Etter at man har tatt i bruk Datokontroll på de varegruppene man ønsker selv anbefaler vi å ta det i bruk på varegrupper med spesielt lang holdbarhet, her kan man redusere matsvinn drastisk ved å sette av et par timer i året.
 
- > Tørrvarer og frysevarer gir høy svinnreduksjon med med svært lav tidsinvestering
+ > Tørrvarer og frysevarer gir høy svinnreduksjon med svært lav tidsinvestering
 
 
-## Kan jeg se hvordan arbiedet med matsvinn går?
+## Kan jeg se hvordan arbeidet med matsvinn går?
 
 Den beste måten å vurdere hvordan arbeidet med matsvinn går over tid er å se på butikkens egen svinnrapporter. Dette er siden Datokontroll fokuserer på å gjøre registreringsarbeidet så effektivt som mulig, for spare deg tid. Vi har derfor lite data om din beholdning.
 
-Datokontroll tilbyr derrimot statestikk om hvordan arbeidet med Datokontroll går. Her kan du få oversikt om hvor mye tid som blir brukt, hvor mange varer som er scannet, nedpriset og mer. Statestikk siden finner du [her](https://console.datokontroll.no/console/statistics/overview)
+Datokontroll tilbyr derimot statistikk om hvordan arbeidet med Datokontroll går. Her kan du få oversikt om hvor mye tid som blir brukt, hvor mange varer som er scannet, nedpriset og mer. Statistikk siden finner du [her](https://console.datokontroll.no/console/statistics/overview)
