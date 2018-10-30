@@ -12,6 +12,7 @@ Administrasjon av Datokontroll.
 - Administrasjon av brukerprofil
 - Invitasjon av medarbeidere
 - Abonnement og betaling
+- Statistikk for din butikk
 
 [Link til tjenesten](https://console.datokontroll.no)
 

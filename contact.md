@@ -7,3 +7,4 @@ formspree:
     redirect: /thanks/
 ---
 
+Send oss en melding her eller kontakt oss på support@datokontroll.no så vil vi gjøre vårt beste for å hjelpe deg!

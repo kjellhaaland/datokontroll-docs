@@ -1,10 +1,122 @@
 # Changelog page source
 
-- title: Version 3.0.9
-  label: STABLE
-  date:  11. April 2018
+- title: Version 3.9
+  label: 
+  date:  10. April 2018
   list:
-  - Nytt UI design
+  - Fikset problem med loading på registreringsskjerm.
+  - Bedre offline støtte.
+
+- title: Version 3.6
+  label: 
+  date:  7. April 2018
+  list:
+  - Fikset bug med kategorier som forsvant fra "kommende"
+  - Bedre offline-støtte
   - Støtte for vektvarer
-  - Bedre støtte for arbeid i offline modus
-  - Støtte for mer fleksibelt brukersystem
+  
+- title: Version 3.5
+  label: 
+  date:  5. April 2018
+  list:
+  - Oppdatert UI
+  - Støtte for vektvarer
+  - Støtte for fleksibelt brukersystem
+
+- title: Version 3.4
+  label: 
+  date:  6. Februar 2018
+  list:
+  - Ny og forbedret design
+  - Automatisk oppdatring av sortiment
+  - Bugfixes
+
+- title: Version 3.3
+  label: 
+  date:  16 Oktober 2017
+  list:
+  - Flere funksjoner i datolisten
+  - Bedre ytelse i datolisten
+  - Registreringsskjerm har nå numpad
+  - Diverse feilrettinger
+  - Forbedret offline-modus
+
+- title: Version 3.2
+  label: 
+  date:  21 September 2017
+  list:
+  - Fikset problem med at produkter som flagges forsvinner fra datolisten
+  - Fikset problem med at registreringsskjerm ikke dukker opp
+  - Fikset problem med at feil dato blir lagret under registrering
+  - Diverse andre feilrettinger
+
+- title: Version 3.0
+  label: 
+  date:  12 September 2017
+  list:
+  - Ny og forbedret design.
+  - Forbedret strekkode skanner
+  - Flere funksjoner i datolisten
+  - Flere funksjoner i registrering
+  - Diverse feilrettinger
+
+- title: Version 2.4
+  label: 
+  date:  24 September 2016
+  list:
+  - Fikset små bugs
+  - Nytt app-ikon
+
+- title: Version 2.2
+  label: 
+  date:  8 September 2016
+  list:
+  - Strekkode-scanner
+  - Forbedret layout på datoliste
+  - Enklere å opprette nye hyllekategorier
+  - Flere valgalternativer i innstillings-menyen
+
+- title: Version 2.1
+  label: 
+  date:  4 August 2016
+  list:
+  - Fikset bug med registrerings-skjerm
+  - Lagt til scrolling i registrerings-skjerm
+  - Lagt til kopiknapp for å kopiere siste registrerte produkt
+  - Endret tekst
+  - Forbedret ytelse i beholdningsliste, nedpriste produkter og datolisten.
+
+- title: Version 2.0
+  label: 
+  date:  12 Juli 2016
+  list:
+  - Forbedret datoliste
+  - Flere valgmuligheter ved oppretting av hyllekategorier
+
+- title: Version 1.3
+  label: 
+  date:  13 April 2016
+  list:
+  - Fikset bug med datoliste
+  - Små design endringer
+
+- title: Version 1.2
+  label: 
+  date:  5 April 2016
+  list:
+  - Forbedret design
+  - Ny og bedre datoliste
+  - Valg av avdeling.
+
+- title: Version 1.1
+  label: 
+  date:  28 Januar 2016
+  list:
+  - Bug fixes
+  - Sorter etter beholdning
+  - Ny login-screen!
+
+  - title: Version 1.0
+  label: 
+  date:  14 Januar 2016
+  list:

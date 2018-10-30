@@ -14,6 +14,10 @@ Datokontroll er et verktøy som er utviklet for butikker og kiosker for å redus
 
 > Datokontroll er laget for å være enkelt, oversiktlig og effektivt
 
+Det oppnår du ved å bare registrere utsatte varer, slik at de aller fleste varer går gjennom butikken uten at de krever svinnarbeid.
+
+> Med Datokontroll går langt over 90% av varene gjennom butikken uten å registreres
+
 ## Hvorfor skal jeg bruke Datokontroll?
 Datokontroll gir deg full kontroll på din butikk på en enkel, oversiktlig og effektiv måte. Ved å bruke Datokontroll vil du og dine medarbeidere føle at dere har oversikt over alle datovarer i butikken. Her er noen av fordelene Datokontroll gir for din butikk:
 

@@ -1,16 +1,20 @@
 ---
 layout: doc
 title: Kom i gang
-subtitle: Tips til deg som akkurat har begynt med Datokontroll i din butikk. Vi har laget en liste med tips og triks til deg som er ny i Datokontroll.
+subtitle: Her er en enkel gjennomgang av hvordan du starter med Datokontroll. Om du setter deg fast eller har noen spørsmål send oss gjerne en epost på support@datokontroll.no
 author:
 tags: categories startup new
 ---
 
 ### Steg 1 - Ny bruker
-Opprett en ny Datokontroll bruker.
+Opprett en ny Datokontroll bruker. Det kan du gjøre [her](https://console.datokontroll.no/signup/)
 
 ### Steg 2 - Kategorier
 Opprett kategorier for alle hyllene i butikken du ønsker redusere svinn i.
+> Vi anbefaler at du starter med ett par kategorier som Melk, Ferdigmat og Kjøtt.
+
+Kategorier kan du opprette [her](https://console.datokontroll.no/console/categories/overview), en mer detaljert forklaring av kategorier finner du [her](/docs/categories/).
+
 
 ### Steg 3 - Appen
 Last ned Datokontroll-appen og logg inn med din brukerkonto. Velg de avdelingene du tilhører. Du kan kun se kategorier i de avdelingene du velger.
@@ -24,11 +28,15 @@ Sjekk datolisten gjevnlig. Meieri, kjølevarer og ferskvarer bør sjekkes hver d
 
 ## Andre ting du bør gjøre
 
+### Lær mer
+
+Les mer for å jobbe så effektivt dom mulig. Det kan du gjøre [her](/docs/categories/).
+
 ### Inviter medarbeidere
 Inviter dine medarbeidere til Datokontroll. Du inviterer nye brukere på [denne linken](https://console.datokontroll.no/)
 
 ### Deleger ansvar
-Det er ofte smart å delegere ansvar for de forskjellige avdelingene. Da slipper en oeson å holde oversikt over alle hyller i butikken.
+Det er ofte smart å delegere ansvar for de forskjellige avdelingene. Da slipper en person å holde oversikt over alle hyller i butikken.
 
 ### Fast plass til datovarer
 Vi anbefaler å ha en fast plass hvor du plasserer datovarer i butikken. Du kan for eksempel samle alle kjølevarer i en felles kjøledisk og tørrvarer i en handlekurv. Husk å merke slike salgsplasser tydelig med *nedpriste datovarer* slik at kundene ikke blir forvirret.

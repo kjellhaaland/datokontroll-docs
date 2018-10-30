@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "categories, setup, new",
       "url"      : "//docs/categories/",
-      "date"     : "2018-10-30 12:06:05 +0100"
+      "date"     : "2018-10-30 21:48:36 +0100"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "products, list",
       "url"      : "//docs/datelist/",
-      "date"     : "2018-10-30 12:06:05 +0100"
+      "date"     : "2018-10-30 21:48:36 +0100"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "faq, question, questions, problems, errors, problem, error",
       "url"      : "//docs/faq/",
-      "date"     : "2018-10-30 12:06:05 +0100"
+      "date"     : "2018-10-30 21:48:36 +0100"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "intro, new, startup",
       "url"      : "//docs/intro/",
-      "date"     : "2018-10-30 12:06:05 +0100"
+      "date"     : "2018-10-30 21:48:36 +0100"
     } ,
   
     {
@@ -37,7 +37,15 @@
       "category" : "",
       "tags"     : "categories, startup, new",
       "url"      : "//docs/new_store/",
-      "date"     : "2018-10-30 12:06:05 +0100"
+      "date"     : "2018-10-30 21:48:36 +0100"
+    } ,
+  
+    {
+      "title"    : "Hvilke resultater kan man forvente?",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//docs/results/",
+      "date"     : "2018-10-30 21:48:36 +0100"
     } ,
   
     {
@@ -45,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//docs/scanning/",
-      "date"     : "2018-10-30 12:06:05 +0100"
+      "date"     : "2018-10-30 21:48:36 +0100"
     } ,
   
     {
@@ -53,7 +61,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//docs/services/",
-      "date"     : "2018-10-30 12:06:05 +0100"
+      "date"     : "2018-10-30 21:48:36 +0100"
+    } ,
+  
+    {
+      "title"    : "Tips og triks",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//docs/tips/",
+      "date"     : "2018-10-30 21:48:36 +0100"
     } 
   
 ]

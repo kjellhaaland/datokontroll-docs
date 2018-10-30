@@ -17,5 +17,15 @@
 
 - title: FAQ
   desc: Ofte stilte spørsmål
-  icon: question
+  icon: 
   doc: faq
+
+- title: Tips og triks
+  desc: Noen tips for å få det meste ut av Datokontroll
+  icon: 
+  doc: tips
+
+- title: Resultater
+  desc:  Litt tall om hva du kan forvente av forbedringer når du bruker Datkontroll.
+  icon: 
+  doc: results
