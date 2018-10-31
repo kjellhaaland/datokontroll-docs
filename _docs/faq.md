@@ -29,13 +29,13 @@ Du oppretter nye kategorier i konsollen. Du finner den [her](https://console.dat
 Om du har nådd maksimalt antall kategorier for ditt abonnement så vil du ikke kunne opprette flere kategorier. Du kan da oppgradere abonnementet ditt til en med flere kategorier [her](https://console.datokontroll.no/console/profile/subscription).
 
 ## Hvorfor ser jeg ikke alle kategoriene i Datokontroll appen?
-Om du ikke ser alle kategoriene kan det hende du ikke har vagt å vise alle avdelinger. Det kan du gjøre ved å gå på innstillinger i appen, så avdelinger og velge de du vil se. 
+Om du ikke ser alle kategoriene kan det hende du ikke har valgt å vise alle avdelinger. Det kan du gjøre ved å gå på innstillinger i appen, så avdelinger og velge de du vil se. 
 
 # Brukere
 
-## Hvordan har jeg flere medarbeidere som bruker Datokontroll?
+## Hvordan kan medarbeidere opprette Datokontroll bruker?
 Om du vil at flere i butikken skal kunne bruke Datokontroll uten å dele bruker, kan man invitere brukere til butikken i konsollen [her](https://console.datokontroll.no/console/profile/account). De vil da kunne logge inn med sin bruker i appen, men ikke ha rettigheter til å endre annen informasjon om butikken på konsollen. 
 
 ## Hvordan inviterer jeg brukere til Datokontroll?
-Du kan invitere brukere til butikken i konsollen [her](https://console.datokontroll.no/console/profile/account) ved å oppgi epostadressen dems. De vil da få en epost hvor de kan lage bruker og få tilgang til butikken. Om brukeren allerede har en Datokontroll bruker kan de være medlem i flere butikker og bytte mellom dem i appen og i konsollen.
+Du kan invitere brukere til butikken i konsollen [her](https://console.datokontroll.no/console/profile/account) ved å oppgi epostadressen dems. De vil da få en epost hvor de kan lage bruker og få tilgang til butikken. Om brukeren allerede har en Datokontroll bruker kan de være medlem i flere butikker, og bytte mellom dem i appen og i konsollen.
 

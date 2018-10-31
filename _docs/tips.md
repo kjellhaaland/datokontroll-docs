@@ -24,6 +24,6 @@ Det kan man lett gjøre i datolisten ved å gå inn i datolisten og øke tiden p
 
 ## Kan jeg se hvordan arbeidet med matsvinn går?
 
-Den beste måten å vurdere hvordan arbeidet med matsvinn går over tid er å se på butikkens egen svinnrapporter. Dette er siden Datokontroll fokuserer på å gjøre registreringsarbeidet så effektivt som mulig, for spare deg tid. Vi har derfor lite data om din beholdning.
+Den beste måten å vurdere hvordan arbeidet med matsvinn går over tid er å se på butikkens egen svinnrapporter. Dette er siden Datokontroll fokuserer på å gjøre registreringsarbeidet så effektivt som mulig, for å spare deg tid. Vi har derfor lite data om din beholdning.
 
 Datokontroll tilbyr derimot statistikk om hvordan arbeidet med Datokontroll går. Her kan du få oversikt om hvor mye tid som blir brukt, hvor mange varer som er scannet, nedpriset og mer. Statistikk siden finner du [her](https://console.datokontroll.no/console/statistics/overview)
