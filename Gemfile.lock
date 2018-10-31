@@ -7,9 +7,11 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.5-x64-mingw32)
     eventmachine (1.2.5-x86-mingw32)
     faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
+    ffi (1.9.23-x64-mingw32)
     ffi (1.9.23-x86-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -74,6 +76,7 @@ GEM
       tzinfo (>= 1.0.0)
 
 PLATFORMS
+  x64-mingw32
   x86-mingw32
 
 DEPENDENCIES
@@ -87,7 +90,7 @@ DEPENDENCIES
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.5.3p105
 
 BUNDLED WITH
-   1.16.1
+   1.17.0
