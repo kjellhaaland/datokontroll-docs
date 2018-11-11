@@ -25,3 +25,11 @@ App som brukes til daglig arbeid med Datokontroll.
 [Last ned til Android](https://play.google.com/store/apps/details?id=com.codecanvas.datokontroll)
 
 [Last ned til iOS](https://itunes.apple.com/no/app/datokontroll/id1072080202?mt=8)
+
+### Datomerk App
+App hvor dine kunder kan se varer du har priset ned. Datomerk er en gratis tilleggstjeneste du kan aktivere om du ønsker. 
+- Se nedprisede varer
+
+[Last ned til Android](https://play.google.com/store/apps/details?id=com.bitwhale.datomerk)
+
+[Last ned til iOS](https://itunes.apple.com/no/app/datomerk/id1335431656)
