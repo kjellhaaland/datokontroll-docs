@@ -15,7 +15,7 @@ baseurl:            "/"
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://http://docs.datokontroll.no/datokontroll-docs"
+url:                "http://docs.datokontroll.no"
 
 # Site logo, image or text
 brand:
